@@ -12,6 +12,7 @@
 		D14F1FC9223DE76C005D8ADF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14F1FC7223DE76C005D8ADF /* Main.storyboard */; };
 		D14F1FCB223DE76E005D8ADF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D14F1FCA223DE76E005D8ADF /* Assets.xcassets */; };
 		D14F1FCE223DE76E005D8ADF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14F1FCC223DE76E005D8ADF /* LaunchScreen.storyboard */; };
+		D167C842223E2C510016C6CB /* imagesForXCode in Resources */ = {isa = PBXBuildFile; fileRef = D167C841223E2C510016C6CB /* imagesForXCode */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D14F1FCA223DE76E005D8ADF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D14F1FCD223DE76E005D8ADF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D14F1FCF223DE76E005D8ADF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D167C841223E2C510016C6CB /* imagesForXCode */ = {isa = PBXFileReference; lastKnownFileType = folder; path = imagesForXCode; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D14F1FC3223DE76C005D8ADF /* AppDelegate.swift */,
 				D14F1FC5223DE76C005D8ADF /* ViewController.swift */,
 				D14F1FC7223DE76C005D8ADF /* Main.storyboard */,
+				D167C841223E2C510016C6CB /* imagesForXCode */,
 				D14F1FCA223DE76E005D8ADF /* Assets.xcassets */,
 				D14F1FCC223DE76E005D8ADF /* LaunchScreen.storyboard */,
 				D14F1FCF223DE76E005D8ADF /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				D14F1FCE223DE76E005D8ADF /* LaunchScreen.storyboard in Resources */,
 				D14F1FCB223DE76E005D8ADF /* Assets.xcassets in Resources */,
+				D167C842223E2C510016C6CB /* imagesForXCode in Resources */,
 				D14F1FC9223DE76C005D8ADF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
